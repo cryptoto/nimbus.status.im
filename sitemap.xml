@@ -23,13 +23,6 @@
   </url>
   
   <url>
-    <loc>https://dev-nimbus.status.im/docs/contributor_guide.html</loc>
-    
-    <lastmod>2018-11-28T08:32:45.162Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://dev-nimbus.status.im/docs/design.html</loc>
     
     <lastmod>2018-11-28T08:32:45.162Z</lastmod>
@@ -38,6 +31,13 @@
   
   <url>
     <loc>https://dev-nimbus.status.im/docs/faq.html</loc>
+    
+    <lastmod>2018-11-28T08:32:45.162Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev-nimbus.status.im/docs/contributor_guide.html</loc>
     
     <lastmod>2018-11-28T08:32:45.162Z</lastmod>
     
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://dev-nimbus.status.im/docs/libs.html</loc>
+    <loc>https://dev-nimbus.status.im/docs/options.html</loc>
     
     <lastmod>2018-11-28T08:32:45.162Z</lastmod>
     
@@ -72,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://dev-nimbus.status.im/docs/options.html</loc>
+    <loc>https://dev-nimbus.status.im/docs/libs.html</loc>
     
     <lastmod>2018-11-28T08:32:45.162Z</lastmod>
     
